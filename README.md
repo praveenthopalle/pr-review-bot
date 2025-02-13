@@ -13,9 +13,6 @@ Streamline Your GitHub Pull Requests with AI, co-authored with GPT4.
 - Easy to set up and use
 - Costs analysis of each review
 
-## Example 
-
-![alt text](./docs/example.png)
 
 ## Install
 
